@@ -23,7 +23,7 @@ Focused on developing **production-grade AI systems** with LLM orchestration, da
 
 ### 📊 GitHub Stats
 
-</p> -->
+</p>
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=ZubairKhatti&show_icons=true&theme=default"/>
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ZubairKhatti&theme=default"/>
