@@ -26,7 +26,7 @@ Focused on developing **production-grade AI systems** with LLM orchestration, da
 </p>
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=zubairkhatti&show_icons=true&theme=default"/>
-  <a href="https://git.io/streak-stats"><img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=zubairkhatti&theme=transparent" alt="GitHub Streak"/></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zubairkhatti&layout=compact&theme=default" height="165" />
 </p>
 
 <p align="center">
