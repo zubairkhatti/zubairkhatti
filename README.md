@@ -25,12 +25,12 @@ Focused on developing **production-grade AI systems** with LLM orchestration, da
 
 </p>
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ZubairKhatti&show_icons=true&theme=default"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ZubairKhatti&theme=default"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zubairkhatti&show_icons=true&theme=default"/>
+  <a href="https://git.io/streak-stats"><img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=zubairkhatti&theme=transparent" alt="GitHub Streak"/></a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ZubairKhatti&theme=flat&no-frame=true&row=1&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=zubairkhatti&theme=flat&no-frame=true&row=1&margin-w=10"/>
 </p>
 
 ---
