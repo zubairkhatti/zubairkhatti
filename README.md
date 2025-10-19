@@ -8,7 +8,7 @@
   <a href="https://www.kaggle.com/zubairkhatti"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/></a>
   <a href="https://www.upwork.com/freelancers/~01e0c0e7cf08b486fc?mp_source=share"><img src="https://img.shields.io/badge/Upwork-14A800?style=flat&logo=upwork&logoColor=white"/></a>
   <a href="https://www.fiverr.com/engr_zubair_kh"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white"/></a>
-  <a href="https://zubairkhatti.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white"/></a>
+  <a href="https://zubairkhatti.site/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=ZubairKhatti&label=Profile%20Views&color=lightgrey&style=flat" alt="profile views"/>
 </p>
 
